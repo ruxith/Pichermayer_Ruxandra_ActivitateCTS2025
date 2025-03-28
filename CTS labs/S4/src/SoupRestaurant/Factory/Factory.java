@@ -1,6 +1,6 @@
 package SoupRestaurant.Factory;
 
-import S4.SoupRestaurant.Classes.*;
+import SoupRestaurant.Classes.*;
 
 public class Factory {
     private int grams;

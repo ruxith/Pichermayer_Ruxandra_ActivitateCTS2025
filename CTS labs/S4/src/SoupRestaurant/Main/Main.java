@@ -1,7 +1,7 @@
 package SoupRestaurant.Main;
 
-import S4.SoupRestaurant.Factory.Factory;
-import S4.SoupRestaurant.Classes.*;
+import SoupRestaurant.Factory.Factory;
+import SoupRestaurant.Classes.*;
 
 public class Main {
     public static void main(String[] args) {
