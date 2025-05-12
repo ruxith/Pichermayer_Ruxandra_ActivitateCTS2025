@@ -1,7 +1,6 @@
 package Classes;
 
 public class PacientBuilder implements AbstractBuilder{
-    private String name;
     private boolean hasRetractableBed;
     private boolean hasRobe;
     private boolean hasBreakfast;
@@ -19,11 +18,6 @@ public class PacientBuilder implements AbstractBuilder{
     @Override
     public Pacient build(String name) {
         return new Pacient(name, hasRetractableBed, hasRobe, hasBreakfast, hasSlippers, guestName);
-    }
-
-    public PacientBuilder setName(String name) {
-        this.name = name;
-        return this;
     }
 
     public PacientBuilder setHasRetractableBed(boolean hasRetractableBed) {

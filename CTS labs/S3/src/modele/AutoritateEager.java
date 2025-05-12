@@ -6,7 +6,8 @@ public class AutoritateEager {
     private int nrAngajati;
     private int nrAutorizatiiEmise;
 
-    private static AutoritateEager instance = new AutoritateEager("Autoritatea Nationala pentru Pescuit si Acvacultura", "www.anpa.gov.ro", 100, 1000);
+    private static AutoritateEager instance = new AutoritateEager("Autoritatea Nationala pentru Pescuit si Acvacultura",
+            "www.anpa.gov.ro", 100, 1000);
 
     private AutoritateEager(String denumire, String website, int nrAngajati, int nrAutorizatiiEmise) {
         this.denumire = denumire;

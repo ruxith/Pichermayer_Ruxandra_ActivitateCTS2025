@@ -33,7 +33,6 @@ public abstract class Reservation {
         } else {
             this.date = "01.01.1999";
         }
-
         this.time = time;
     }
 
