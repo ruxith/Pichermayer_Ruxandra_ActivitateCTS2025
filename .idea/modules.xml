@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CTS labs/CTS labs.iml" filepath="$PROJECT_DIR$/CTS labs/CTS labs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Pichermayer_Ruxandra_ActivitateCTS2025.iml" filepath="$PROJECT_DIR$/.idea/Pichermayer_Ruxandra_ActivitateCTS2025.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CTS labs/S1/S1.iml" filepath="$PROJECT_DIR$/CTS labs/S1/S1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CTS labs/S10/S10.iml" filepath="$PROJECT_DIR$/CTS labs/S10/S10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CTS labs/S10/S10 Chain/S10 Chain.iml" filepath="$PROJECT_DIR$/CTS labs/S10/S10 Chain/S10 Chain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CTS labs/S10/S10 Template/S10 Template.iml" filepath="$PROJECT_DIR$/CTS labs/S10/S10 Template/S10 Template.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CTS labs/S2/S2.iml" filepath="$PROJECT_DIR$/CTS labs/S2/S2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CTS labs/S3/S3.iml" filepath="$PROJECT_DIR$/CTS labs/S3/S3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CTS labs/S4/S4.iml" filepath="$PROJECT_DIR$/CTS labs/S4/S4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CTS labs/S5/S5.iml" filepath="$PROJECT_DIR$/CTS labs/S5/S5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CTS labs/S5/S5 Builder v1/S5 Builder v1.iml" filepath="$PROJECT_DIR$/CTS labs/S5/S5 Builder v1/S5 Builder v1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CTS labs/S5/S5 Builder v2/S5 Builder v2.iml" filepath="$PROJECT_DIR$/CTS labs/S5/S5 Builder v2/S5 Builder v2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CTS labs/S5/S5 MethodFactory/S5 MethodFactory.iml" filepath="$PROJECT_DIR$/CTS labs/S5/S5 MethodFactory/S5 MethodFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CTS labs/S6/S6.iml" filepath="$PROJECT_DIR$/CTS labs/S6/S6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CTS labs/S8/S8 Composite/S8 Composite.iml" filepath="$PROJECT_DIR$/CTS labs/S8/S8 Composite/S8 Composite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CTS labs/S8/S8 FlyWeight/S8 FlyWeight.iml" filepath="$PROJECT_DIR$/CTS labs/S8/S8 FlyWeight/S8 FlyWeight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CTS labs/S9/S9 Observer/S9 Observer.iml" filepath="$PROJECT_DIR$/CTS labs/S9/S9 Observer/S9 Observer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CTS labs/S9/S9 Strategy/S9 Strategy.iml" filepath="$PROJECT_DIR$/CTS labs/S9/S9 Strategy/S9 Strategy.iml" />
+    </modules>
+  </component>
+</project>
