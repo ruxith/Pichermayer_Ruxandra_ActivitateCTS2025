@@ -2,23 +2,31 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/STB/AdapterSTB/AdapterSTB.iml" filepath="$PROJECT_DIR$/STB/AdapterSTB/AdapterSTB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spital/AdapterSpital/AdapterSpital.iml" filepath="$PROJECT_DIR$/Spital/AdapterSpital/AdapterSpital.iml" />
       <module fileurl="file://$PROJECT_DIR$/CTS labs.iml" filepath="$PROJECT_DIR$/CTS labs.iml" />
-      <module fileurl="file://$PROJECT_DIR$/S1/S1.iml" filepath="$PROJECT_DIR$/S1/S1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/S2/S2.iml" filepath="$PROJECT_DIR$/S2/S2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/S3/S3.iml" filepath="$PROJECT_DIR$/S3/S3.iml" />
-      <module fileurl="file://$PROJECT_DIR$/S4/S4.iml" filepath="$PROJECT_DIR$/S4/S4.iml" />
-      <module fileurl="file://$PROJECT_DIR$/S5/S5.iml" filepath="$PROJECT_DIR$/S5/S5.iml" />
-      <module fileurl="file://$PROJECT_DIR$/S5/S5 Builder v1/S5 Builder v1.iml" filepath="$PROJECT_DIR$/S5/S5 Builder v1/S5 Builder v1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/S5/S5 Builder v2/S5 Builder v2.iml" filepath="$PROJECT_DIR$/S5/S5 Builder v2/S5 Builder v2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/S5/S5 MethodFactory/S5 MethodFactory.iml" filepath="$PROJECT_DIR$/S5/S5 MethodFactory/S5 MethodFactory.iml" />
-      <module fileurl="file://$PROJECT_DIR$/S6/S6.iml" filepath="$PROJECT_DIR$/S6/S6.iml" />
-      <module fileurl="file://$PROJECT_DIR$/S7/S7.iml" filepath="$PROJECT_DIR$/S7/S7.iml" />
-      <module fileurl="file://$PROJECT_DIR$/S8/S8.iml" filepath="$PROJECT_DIR$/S8/S8.iml" />
-      <module fileurl="file://$PROJECT_DIR$/S8/S8 Composite/S8 Composite.iml" filepath="$PROJECT_DIR$/S8/S8 Composite/S8 Composite.iml" />
-      <module fileurl="file://$PROJECT_DIR$/S8/S8 FlyWeight/S8 FlyWeight.iml" filepath="$PROJECT_DIR$/S8/S8 FlyWeight/S8 FlyWeight.iml" />
-      <module fileurl="file://$PROJECT_DIR$/S9/S9.iml" filepath="$PROJECT_DIR$/S9/S9.iml" />
-      <module fileurl="file://$PROJECT_DIR$/S9/S9 Observer/S9 Observer.iml" filepath="$PROJECT_DIR$/S9/S9 Observer/S9 Observer.iml" />
-      <module fileurl="file://$PROJECT_DIR$/S9/S9 Strategy/S9 Strategy.iml" filepath="$PROJECT_DIR$/S9/S9 Strategy/S9 Strategy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/STB/FacadeSTB/FacadeSTB.iml" filepath="$PROJECT_DIR$/STB/FacadeSTB/FacadeSTB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spital/FacadeSpital/FacadeSpital.iml" filepath="$PROJECT_DIR$/Spital/FacadeSpital/FacadeSpital.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Labs/Labs.iml" filepath="$PROJECT_DIR$/Labs/Labs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Restaurant/Restaurant.iml" filepath="$PROJECT_DIR$/Restaurant/Restaurant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Labs/S1/S1.iml" filepath="$PROJECT_DIR$/Labs/S1/S1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Labs/S2/S2.iml" filepath="$PROJECT_DIR$/Labs/S2/S2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Labs/S3/S3.iml" filepath="$PROJECT_DIR$/Labs/S3/S3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Labs/S4/S4.iml" filepath="$PROJECT_DIR$/Labs/S4/S4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Labs/S5/S5.iml" filepath="$PROJECT_DIR$/Labs/S5/S5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Labs/S5/S5 Builder v1/S5 Builder v1.iml" filepath="$PROJECT_DIR$/Labs/S5/S5 Builder v1/S5 Builder v1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Labs/S5/S5 Builder v2/S5 Builder v2.iml" filepath="$PROJECT_DIR$/Labs/S5/S5 Builder v2/S5 Builder v2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Labs/S5/S5 MethodFactory/S5 MethodFactory.iml" filepath="$PROJECT_DIR$/Labs/S5/S5 MethodFactory/S5 MethodFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Labs/S6/S6.iml" filepath="$PROJECT_DIR$/Labs/S6/S6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Labs/S7/S7.iml" filepath="$PROJECT_DIR$/Labs/S7/S7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Labs/S8/S8.iml" filepath="$PROJECT_DIR$/Labs/S8/S8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Labs/S8/S8 Composite/S8 Composite.iml" filepath="$PROJECT_DIR$/Labs/S8/S8 Composite/S8 Composite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Labs/S8/S8 FlyWeight/S8 FlyWeight.iml" filepath="$PROJECT_DIR$/Labs/S8/S8 FlyWeight/S8 FlyWeight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Labs/S9/S9.iml" filepath="$PROJECT_DIR$/Labs/S9/S9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Labs/S9/S9 Observer/S9 Observer.iml" filepath="$PROJECT_DIR$/Labs/S9/S9 Observer/S9 Observer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Labs/S9/S9 Strategy/S9 Strategy.iml" filepath="$PROJECT_DIR$/Labs/S9/S9 Strategy/S9 Strategy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/STB/STB.iml" filepath="$PROJECT_DIR$/STB/STB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spital/Spital.iml" filepath="$PROJECT_DIR$/Spital/Spital.iml" />
     </modules>
   </component>
 </project>
