@@ -1,6 +1,6 @@
-import Composite.clase.Departament;
-import Composite.clase.Sectie;
-import Composite.clase.Structura;
+import Classes.Departament;
+import Classes.Sectie;
+import Classes.Structura;
 
 import java.util.ArrayList;
 import java.util.List;

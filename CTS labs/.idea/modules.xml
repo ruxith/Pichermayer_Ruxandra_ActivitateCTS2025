@@ -5,11 +5,15 @@
       <module fileurl="file://$PROJECT_DIR$/STB/AdapterSTB/AdapterSTB.iml" filepath="$PROJECT_DIR$/STB/AdapterSTB/AdapterSTB.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spital/AdapterSpital/AdapterSpital.iml" filepath="$PROJECT_DIR$/Spital/AdapterSpital/AdapterSpital.iml" />
       <module fileurl="file://$PROJECT_DIR$/CTS labs.iml" filepath="$PROJECT_DIR$/CTS labs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/STB/CompositeSTB/CompositeSTB.iml" filepath="$PROJECT_DIR$/STB/CompositeSTB/CompositeSTB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spital/CompositeSpital/CompositeSpital.iml" filepath="$PROJECT_DIR$/Spital/CompositeSpital/CompositeSpital.iml" />
       <module fileurl="file://$PROJECT_DIR$/STB/DecoratorSTB/DecoratorSTB.iml" filepath="$PROJECT_DIR$/STB/DecoratorSTB/DecoratorSTB.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spital/DecoratorSpital/DecoratorSpital.iml" filepath="$PROJECT_DIR$/Spital/DecoratorSpital/DecoratorSpital.iml" />
       <module fileurl="file://$PROJECT_DIR$/STB/FacadeSTB/FacadeSTB.iml" filepath="$PROJECT_DIR$/STB/FacadeSTB/FacadeSTB.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spital/FacadeSpital/FacadeSpital.iml" filepath="$PROJECT_DIR$/Spital/FacadeSpital/FacadeSpital.iml" />
+      <module fileurl="file://$PROJECT_DIR$/STB/FlyweightSTB/FlyweightSTB.iml" filepath="$PROJECT_DIR$/STB/FlyweightSTB/FlyweightSTB.iml" />
       <module fileurl="file://$PROJECT_DIR$/Labs/Labs.iml" filepath="$PROJECT_DIR$/Labs/Labs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spital/ProxySpital/ProxySpital.iml" filepath="$PROJECT_DIR$/Spital/ProxySpital/ProxySpital.iml" />
       <module fileurl="file://$PROJECT_DIR$/Restaurant/Restaurant.iml" filepath="$PROJECT_DIR$/Restaurant/Restaurant.iml" />
       <module fileurl="file://$PROJECT_DIR$/Labs/S1/S1.iml" filepath="$PROJECT_DIR$/Labs/S1/S1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Labs/S2/S2.iml" filepath="$PROJECT_DIR$/Labs/S2/S2.iml" />

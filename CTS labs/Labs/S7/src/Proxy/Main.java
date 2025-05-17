@@ -1,8 +1,8 @@
 package Proxy;
 
-import Classes.IRezervare;
-import Classes.Rezervare;
-import Classes.RezervareProxy;
+import Proxy.Classes.IRezervare;
+import Proxy.Classes.Rezervare;
+import Proxy.Classes.RezervareProxy;
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.

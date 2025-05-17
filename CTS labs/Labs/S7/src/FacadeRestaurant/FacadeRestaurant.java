@@ -1,8 +1,8 @@
 package FacadeRestaurant;
 
-import Classes.Masa;
-import Classes.Ospatar;
-import Classes.Picolo;
+import FacadeRestaurant.Classes.Masa;
+import FacadeRestaurant.Classes.Ospatar;
+import FacadeRestaurant.Classes.Picolo;
 
 public class FacadeRestaurant {
     Picolo picolo = new Picolo();

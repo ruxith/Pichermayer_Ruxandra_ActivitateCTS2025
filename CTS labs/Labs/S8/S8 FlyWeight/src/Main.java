@@ -1,5 +1,5 @@
-import Flyweight.clase.Receptie;
-import Flyweight.clase.Spitalizare;
+import Classes.Receptie;
+import Classes.Spitalizare;
 
 public class Main {
     public static void main(String[] args) {
