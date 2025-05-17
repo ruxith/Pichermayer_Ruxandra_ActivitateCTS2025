@@ -1,6 +1,7 @@
 package Decorator;
 
-import Clase.*;
+import Decorator.Classes.*;
+import Decorator.Classes.Nota;
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
