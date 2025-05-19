@@ -33,6 +33,7 @@
       <module fileurl="file://$PROJECT_DIR$/Labs/S9/S9 Strategy/S9 Strategy.iml" filepath="$PROJECT_DIR$/Labs/S9/S9 Strategy/S9 Strategy.iml" />
       <module fileurl="file://$PROJECT_DIR$/STB/STB.iml" filepath="$PROJECT_DIR$/STB/STB.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spital/Spital.iml" filepath="$PROJECT_DIR$/Spital/Spital.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spital/Strategy/Strategy.iml" filepath="$PROJECT_DIR$/Spital/Strategy/Strategy.iml" />
     </modules>
   </component>
 </project>
