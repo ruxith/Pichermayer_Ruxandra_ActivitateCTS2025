@@ -11,7 +11,7 @@ public class HandlerTroleibuz extends Handler{
 
     @Override
     public void gestioneazaCerere(int distanta) {
-        if(distanta < 3){
+        if(distanta <= 3){
             System.out.println("Gestioneaza cerere troleibuz.");
         } else if(urmator != null){
             urmator.gestioneazaCerere(distanta);

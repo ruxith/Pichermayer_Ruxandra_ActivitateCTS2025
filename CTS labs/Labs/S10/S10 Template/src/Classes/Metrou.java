@@ -1,6 +1,6 @@
 package Classes;
 
-public class Metrou extends AMetrou{
+public class Metrou extends AMetrou {
 
     private int nrMetrou;
 
@@ -10,36 +10,36 @@ public class Metrou extends AMetrou{
 
     @Override
     public void opresteStatia1() {
-        System.out.println("Metrou " + nrMetrou + " opreste statia 1");
+        System.out.println("Classes.Metrou " + nrMetrou + " opreste statia 1");
     }
 
     @Override
     public void opresteStatia2() {
-        System.out.println("Metrou " + nrMetrou + " opreste statia 2");
+        System.out.println("Classes.Metrou " + nrMetrou + " opreste statia 2");
 
     }
 
     @Override
     public void opresteStatia3() {
-        System.out.println("Metrou " + nrMetrou + " opreste statia 3");
+        System.out.println("Classes.Metrou " + nrMetrou + " opreste statia 3");
 
     }
 
     @Override
     public void opresteStatia4() {
-        System.out.println("Metrou " + nrMetrou + " opreste statia 4");
+        System.out.println("Classes.Metrou " + nrMetrou + " opreste statia 4");
 
     }
 
     @Override
     public void opresteStatia5() {
-        System.out.println("Metrou " + nrMetrou + " opreste statia 5");
+        System.out.println("Classes.Metrou " + nrMetrou + " opreste statia 5");
 
     }
 
     @Override
     public void opresteStatia6() {
-        System.out.println("Metrou " + nrMetrou + " opreste statia 6");
+        System.out.println("Classes.Metrou " + nrMetrou + " opreste statia 6");
 
     }
 }
